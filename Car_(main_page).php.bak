@@ -1,0 +1,70 @@
+<html>
+<header>
+<marquee style="background-color:lightblue">&#128663 WELCOME TO OUR APNI CAR APPLICATION &#128663
+</marquee>
+</header>
+<header style="background-color:white;margin-left:550px;"><b>APNI CAR.COM</b></header>
+<header style="background-color:black;height:50px">
+<button style="background-color:black;color:white;margin-top:15px"
+onclick="window.location.href = 'Car_(main_page).php'">HOME</button>
+<button style="background-color:black;color:white;margin-top:15px;margin-left:20px"
+onclick="window.location.href = 'login_page.php'">RENT A CAR</button>
+<button style="background-color:black;color:white;margin-top:15px;margin-left:20px"
+onclick="window.location.href = 'types_page.php'">TYPES</button>
+<button style="background-color:black;color:white;margin-top:15px;margin-left:20px"
+onclick="window.location.href = 'help_page.php'">HELP</button>
+<button style="background-color:black;color:white;margin-top:15px;margin-left:20px"
+onclick="window.location.href = 'terms_page.php'">TERMS </button>
+<input type="text" style=";margin-top:15px;margin-left:480px" placeholder="search car...">
+<button style="background-color:black;color:white;margin-top:15px;margin-left:1px"
+onclick="window.location.href = 'types_page.php'">&#128269 </button>
+
+<select style="width:50px;height:25px;margin-left:20px;color:white;background-color:black" >
+<option > &#9776 </option>
+		  <option > login</option>
+		  <option>signup</option> 
+		  
+		</select>
+
+</header>
+
+<img src="giff.gif" height="400px" width="700px" style="margin-left:250px;margin-top:1px" >
+</img>
+
+<footer style="background-color:black;height:90px">
+<marquee direction=up scrollamount="3">
+<label style="color:white;margin-left:200px"> &ensp; CREATED BY:
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp; CONTACT NO:&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;FOLLOW US:</label>
+</br>
+<label style="color:white;margin-left:200px">ADESH ABHANG
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;  +91 8104715510&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ <img src="instagram.jpg" style="heigh:15px;width:15px"></img>&ensp;@apni_car002(instagram)</label>
+</br>
+<label style="color:white;margin-left:200px">AVEJ MANIYAR
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;  +91 8380996290&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ <img src="telegram.webp" style="heigh:15px;width:15px"></img>&ensp;apni  car002(telegram)</label>
+</br>
+<label style="color:white;margin-left:200px">MUJAMMIL MOMIN
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+ +91 7020640002&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+ &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp;
+ <img src="facebook.png" style="heigh:30px;width:30px"></img>@apni car002(facebook)</label>
+</marquee>
+
+</footer>
+
+<?php
+
+			
+?>
